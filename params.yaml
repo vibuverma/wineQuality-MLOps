@@ -1,0 +1,4 @@
+base:
+  project: winequlatiy-project
+  random_state: 40
+  target_col: TARGET
