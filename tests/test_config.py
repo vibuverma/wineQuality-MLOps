@@ -1,3 +1,4 @@
 def test_generic():
-
-    assert
+    a=10
+    b=10
+    assert a == b
